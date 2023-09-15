@@ -374,6 +374,10 @@
     box-sizing: border-box;
 
 }
+.sc_portfolio.eduwill {
+padding-bottom: 0;
+
+}
 
 .sc_portfolio h2 {
     font-size: 120px;
